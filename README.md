@@ -2,8 +2,7 @@
 
 ## Extensions
 
-- TypeScript Vue Plugin (Volar)
-- Vue Language Features (Volar)
+- Vue - Official
 
 ## Snippets
 
