@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.2
+
+- Update CHANGELOG
+
 ## v1.1.1
 
 - Remove TypeScript Vue Plugin (Volar)
