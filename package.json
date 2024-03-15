@@ -29,7 +29,6 @@
     "Sic Kode Web Design Vue 3 Extension Pack"
   ],
   "extensionPack": [
-    "vue.vscode-typescript-vue-plugin",
     "vue.volar"
   ],
   "contributes": {
