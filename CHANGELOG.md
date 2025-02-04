@@ -1,5 +1,9 @@
 # Change Log
 
+## v1.1.4
+
+- Change publisher
+
 ## v1.1.3
 
 - Fix version issues

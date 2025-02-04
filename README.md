@@ -1,4 +1,4 @@
-# **Sic Kode Web Design** Vue 3 Extension Pack
+# **Sic Kode** Vue 3 Extension Pack
 
 ## Extensions
 
